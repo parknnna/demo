@@ -1,0 +1,10 @@
+com/example/demo/config/WebConfig.java
+ com.example.demo.config.WebConfig
+com/example/demo/WebController.java
+ com.example.demo.WebController
+com/example/demo/api/ApiController.java
+ com.example.demo.api.ApiController
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
+com/example/demo/TestController.java
+ com.example.demo.TestController
