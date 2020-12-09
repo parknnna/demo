@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class ApiController {
 
     @GetMapping("/hello")
-    public HashMap hello() {
-        HashMap result = new HashMap();
+    public HashMap<String,String> hello() {
+        HashMap<String,String> result = new HashMap<>();
         result.put("message", "123123");
 
         return result;
